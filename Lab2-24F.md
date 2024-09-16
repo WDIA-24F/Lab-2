@@ -28,17 +28,17 @@ The purpose of this lab is to get familiar with the debugging tools of Pycharm/V
 
 4. Open Thonny
 
-5. In the Run menu, click Configure Interpreter. Make sure you select Circuit Python and make sure Thonny detected your Circuit Playground (see arrows in the image below). ![](/Users/jeromemizon/Documents/8279 Python/23F/Lab2.png)
+5. In the Run menu, click Configure Interpreter. Make sure you select Circuit Python and make sure Thonny detected your Circuit Playground (see arrows in the image below). ![](Lab2.png)
 
 6. Open the examples folder of the Circuit Playgound Library on your laptop then double click on the file `circuitplayground_pixels_simpletest.py`
 
 7. Click File-Save As and select the `CircuitPython device` button
 
 8. Save the file as `lab2.py`
-   ![Lab2-1](/Users/jeromemizon/Documents/8279 Python/23F/Lab2-1.png)
+   ![Lab2-1](Lab2-1.png)
 
 9. Click on the Run script icon to run the script.
-   ![Lab2-2](/Users/jeromemizon/Documents/8279 Python/23F/Lab2-2.png)
+   ![Lab2-2](Lab2-2.png)
 
 10. Stop the script using the STOP icon. Change the last line of the program to
     `rainbow_cycle(0.01)`
